@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 ## 🌱 What I'm learning
 
 - Advanced JavaScript and TypeScript
-- Deep learning with TensorFlow and PyTorch
+- Devops with Docker Kubernetes and Terraform
 - Cloud computing with AWS
 
 ## 👯 I’m looking to collaborate on:
@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 
 ## 📫 How to reach me
 
-- Email: berecar@example.com
-- LinkedIn: [linkedin.com/in/berecar](https://linkedin.com/in/berecar)
-- Twitter: [@BereCar](https://twitter.com/BereCar)
+- Email:cartillier@berenice.dev
+- LinkedIn: [bcartillier-dev](www.linkedin.com/in/bcartillier-dev)
+  
 
 ## 📊 GitHub Stats
 
@@ -45,6 +45,3 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about technology. I'm always open to new opportunities and collaborations!
 
----
-
-*This is an example profile README. You can customize it further to match your preferences and the specific details you want to highlight about yourself.*
