@@ -41,6 +41,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 
 ## ⚡ Fun fact
 
+- I came to web developement in my early thirties, I was first working in the political science field
+- I play violin
+- I am a history buff
+- I play chess
+
 ## 🤝 Let's connect
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about technology. I'm always open to new opportunities and collaborations!
