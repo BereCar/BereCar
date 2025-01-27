@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 
 ## 🔭 What I'm working on
 
-- Contributing to [Open Source Project](https://github.com/OpenSourceProject)
-- Building a new [Web Application](https://github.com/BereCar/WebApp)
+- Looking to contribute to an  [Open Source Project](https://github.com/OpenSourceProject)
+- Building a new [Mobile Web Application](https://github.com/BereCar/WebApp), confidential for the moment.
 - Exploring machine learning algorithms
 
 ## 🌱 What I'm learning
